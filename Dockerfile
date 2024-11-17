@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 # FROM python:3.4
 
 MAINTAINER Dakota Nelson "dakota@blackhillsinfosec.com"
